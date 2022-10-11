@@ -24,7 +24,6 @@
 <h3>:mortar_board: Check <a href="https://github.com/sszahinos/42Barcelona_index">my progress</a> at 42Barcelona</h3>
 <h3>:brain: Take a look at <a href="https://github.com/sszahinos/projects_index">my own projects</a></h3>
 <h2>Contact me</h2>
-<a href="https://www.linkedin.com/in/sszahinos" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/73641976/195031327-aeba8bbd-3336-479c-93d1-1263771703fb.png" alt="https://www.linkedin.com/in/sszahinos/" width="20vw" height="20vw"></a><a href="https://www.linkedin.com/in/sszahinos"> https://www.linkedin.com/in/sszahinos</a>
+<a href="https://www.linkedin.com/in/sszahinos" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/73641976/195031327-aeba8bbd-3336-479c-93d1-1263771703fb.png" alt="https://www.linkedin.com/in/sszahinos/" width="20vw" height="20vw"></a><a href="https://www.linkedin.com/in/sszahinos" target="_blank" rel="noreferrer"> https://www.linkedin.com/in/sszahinos</a>
 
-<a href="mailto:sergiosaza6@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/73641976/195033905-1b14b9be-e05f-49b4-aa74-12ffc5d85ba1.png" alt="mailto:sergiosaza6@gmail.com" width="20vw" height="20vw"></a><a href="mailto:sergiosaza6@gmail.com"> sergiosaza6@gmail.com
-
+<a href="mailto:sergiosaza6@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/73641976/195033905-1b14b9be-e05f-49b4-aa74-12ffc5d85ba1.png" alt="mailto:sergiosaza6@gmail.com" width="20vw" height="20vw"></a><a href="mailto:sergiosaza6@gmail.com" target="_blank" rel="noreferrer"> sergiosaza6@gmail.com</a>
