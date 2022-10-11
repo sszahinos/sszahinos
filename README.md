@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, welcome to sszahinos repository! :man_technologist:</h1>
 <p>I am a developer interested in hashgraph, blockchain, smart contracts, web3 and new technologies. I also love AI and its versatility. It's a vast world out there but I am going forward, step by step, improving myself and learning new things every day.</p>
-<p>I am studying at 42Barcelona, a school with self-taught, project-based learning where the peer-to-peer and teamwork is necessary to finish the course.</p>
+<p>I am studying at <a href="https://42.fr/en/homepage/">42Barcelona</a>, a school with self-taught, project-based learning where the peer-to-peer and teamwork is necessary to finish the course.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/73641976/195041785-52e9770b-f89c-4147-ba61-4d7d8646afb4.png" alt="java" width="40" height="40"/></a>
