@@ -21,8 +21,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 <h2>My work</h2>
-<h3>:mortar_board: Check <a href="https://github.com/sszahinos/42Barcelona_index">my progress</a> at 42Barcelona</h3>
-<h3>:brain: Take a look at <a href="https://github.com/sszahinos/projects_index">my own projects</a></h3>
+<h3>:mortar_board: <a href="https://github.com/sszahinos/42Barcelona_index">Check my progress at 42Barcelona</a></h3>
+<h3>:brain:<a href="https://github.com/sszahinos/projects_index"> Take a look at my own projects</a></h3>
 <h2>Contact me</h2>
 <a href="https://www.linkedin.com/in/sszahinos" target="_blank" rel="noopener"><img src="https://user-images.githubusercontent.com/73641976/195031327-aeba8bbd-3336-479c-93d1-1263771703fb.png" alt="https://www.linkedin.com/in/sszahinos/" width="20vw" height="20vw"></a><a href="https://www.linkedin.com/in/sszahinos" target="_blank" rel="noreferrer"> https://www.linkedin.com/in/sszahinos</a>
 
